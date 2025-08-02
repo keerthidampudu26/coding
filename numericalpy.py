@@ -1,0 +1,10 @@
+import numpy as np
+a=list(map(int,input("enter  numbers for RRAY a,space seperted:").split()))
+b=list(map(int,input("enter  numbers for RRAY b,space seperted:").split()))
+a=np.array(a)
+b=np.array(b)
+v=np.vstack((a,b))
+print("vertical stac:\n",np.vstack((a,b)))
+print("vertical stac:\n",np.hstack((a,b)))
+print("elemen 5 access",v[1,1])
+print("element 5 access",v[1][1])

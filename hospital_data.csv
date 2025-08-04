@@ -1,0 +1,7 @@
+patient_id,name,age,department,admissiondate,bill
+p001,mitti,34.0,carone,2025-06-25,70000
+p002,bittu,30.0,cancer,2023-02-24,30000
+p003,battu,,neuroplogy,2025-08-26,40000
+p004,chari,60.0,cardiology,2025-03-28,40000
+p005,neelu,25.0,cancer,2025-02-30,30000
+p006,meenu,50.0,ICU,2024-02-31,30000
